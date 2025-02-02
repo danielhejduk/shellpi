@@ -1,0 +1,8 @@
+shellpi
+main
+
+.env
+
+*.so
+*.dll
+*.a
